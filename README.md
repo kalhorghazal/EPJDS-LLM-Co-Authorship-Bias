@@ -10,4 +10,4 @@ This repository contains the analysis code for the paper:
 
 If you use our analysis code in your work, please cite our paper:
 
-Mashhadi, A. (2024). Exploring Biases in Large Language Models through Co-Authorship Analysis. Under review at *EPJ Data Science*.
+Mashhadi, A. (2024). Exploring Biases in Large Language Models through Co-Authorship Analysis. Submitted to *EPJ Data Science*.
