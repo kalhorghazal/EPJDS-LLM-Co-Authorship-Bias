@@ -16,7 +16,7 @@ Kalhor, G., Yadav, S., Noor, N., Alroomi, N., Ali, S., & Mashhadi, A. (2024). Ex
 
 Our analysis scripts are classified into the following folders:
 
-* **Data Collection**: This directory contains the Python script we used to collect authors' information, including co-author list, affliation, country, h-index, and citation count from Google Scholar using `scholarly` API. Moreover, it contains the code used for collecting co-authors' names, genders, countries, and affiliations for each author from OpenAI using its API.
+* **Data Collection**: This directory contains the Python script we used to collect authors' information, including co-author list, affliation, country, h-index, and citation count from Google Scholar using the `scholarly` API. Moreover, it contains the code used for collecting co-authors' names, genders, countries, and affiliations for each author from OpenAI using its API.
 
 * **Gender Detection**: This directory contains the Python script we used to detect the genders of authors and co-authors from both Google Scholar and OpenAI, using the `Namsor` API.
 
