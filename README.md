@@ -16,6 +16,9 @@ Kalhor, G., Yadav, S., Noor, N., Alroomi, N., Ali, S., & Mashhadi, A. (2024). Ex
 
 Our analysis scripts are classified into the following folders:
 
+* **Data Collection**: This directory contains the Python script we used to collect authors' information, including co-author list, affliation, country, h-index, and citation count from Google Scholar using `scholarly` API. Moreover, it contains the code used for collecting co-authors' names, genders, countries, and affiliations for each author from OpenAI using its API.
+
+
 * **Fairness Analysis**: This directory contains the Python scripts we used to calculate the number of matched co-authors' names for each author and fairness metrics, including demographic parity, predictive equality, conditional demographic parity, and conditional predictive equality.
 
 * **Network Analysis**: This directory contains the Python codes we used to build the Google Scholar co-authorship network and the LLM-constructed co-authorship network. It also includes the script for comparing the structural features of the two networks.
