@@ -14,7 +14,7 @@ Kalhor, G., Yadav, S., Noor, N., Alroomi, N., Ali, S., & Mashhadi, A. (2024). Ex
 
 # Directories
 
-Our analysis scripts are classified into the following folders:
+Our scripts are classified into the following folders:
 
 * **Data Collection**: This directory contains the Python script we used to collect authors' information, including co-author list, affliation, country, h-index, and citation count from Google Scholar using the `scholarly` API. Moreover, it contains the code used for collecting co-authors' names, genders, countries, and affiliations for each author from OpenAI using its API.
 
