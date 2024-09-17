@@ -10,7 +10,7 @@ This repository contains the data collection scripts and analysis code for the p
 
 If you use our data collection scripts and analysis code in your work, please cite our paper:
 
-Kalhor, G., Yadav, S., Noor, N., Alroomi, N., Ali, S., Darbari, U., & Mashhadi, A. (2024). Exploring biases in large language models through co-authorship analysis. Submitted to *EPJ Data Science*.
+Kalhor, G., Yadav, S., Noor, N., Alroomi, N., Ali, S., Darbari, U., & Mashhadi, A. (2024). Exploring biases in large language models through co-authorship analysis. Under review at *EPJ Data Science*.
 
 # Directories
 
