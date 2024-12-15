@@ -1,4 +1,4 @@
-# Co-Authorship Bias Paper
+# EPJDS-LLM-Co-Authorship-Bias
 
 This repository contains the data collection scripts and analysis code for the paper:
 
