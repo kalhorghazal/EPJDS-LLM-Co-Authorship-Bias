@@ -4,13 +4,13 @@ This repository contains the data collection scripts and analysis code for the p
 
 **Title:** "Exploring Biases in Large Language Models through Co-Authorship Analysis"
 
-**Authors:** Ghazal Kalhor, Sonal Yadav, Naima Noor, Noura Alroomi, Utkarsh Darbari, Shiza Ali and Afra Mashhadi
+**Authors:** Ghazal Kalhor, Shiza Ali and Afra Mashhadi
 
 **DOI:** ""
 
 If you use our data collection scripts and analysis code in your work, please cite our paper:
 
-Kalhor, G., Yadav, S., Noor, N., Alroomi, N., Darbari, U., Ali, S., & Mashhadi, A. (2024). Exploring biases in large language models through co-authorship analysis. Under revision at *EPJ Data Science*.
+Kalhor, G., Ali, S., & Mashhadi, A. (2024). Exploring biases in large language models through co-authorship analysis. Under revision at *EPJ Data Science*.
 
 # Directories
 
