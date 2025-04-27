@@ -2,7 +2,7 @@
 
 This repository contains the data collection scripts and analysis code for the paper:
 
-**Title:** "Exploring Biases in Large Language Models through Co-Authorship Analysis"
+**Title:** "Measuring Biases in AI-Generated Co-Authorship Networks"
 
 **Authors:** Ghazal Kalhor, Shiza Ali and Afra Mashhadi
 
@@ -10,7 +10,7 @@ This repository contains the data collection scripts and analysis code for the p
 
 If you use our data collection scripts and analysis code in your work, please cite our paper:
 
-Kalhor, G., Ali, S., & Mashhadi, A. (2024). Exploring biases in large language models through co-authorship analysis. Under revision at *EPJ Data Science*.
+Kalhor, G., Ali, S., & Mashhadi, A. (2025). Measuring biases in AI-generated co-authorship networks. Under review at *EPJ Data Science*.
 
 # Directories
 
