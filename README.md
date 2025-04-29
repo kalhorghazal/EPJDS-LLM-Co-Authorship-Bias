@@ -10,7 +10,7 @@ This repository contains the data collection scripts and analysis code for the p
 
 If you use our data collection scripts and analysis code in your work, please cite our paper:
 
-Kalhor, G., Ali, S., & Mashhadi, A. (2025). Measuring biases in AI-generated co-authorship networks. Under review at *EPJ Data Science*.
+Kalhor, G., Ali, S., & Mashhadi, A. (2025). Measuring biases in AI-generated co-authorship networks. Accepted for publication in *EPJ Data Science*.
 
 # Directories
 
