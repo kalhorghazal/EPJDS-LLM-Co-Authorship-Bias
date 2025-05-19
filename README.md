@@ -6,7 +6,7 @@ This repository contains the data collection scripts and analysis code for the p
 
 **Authors:** Ghazal Kalhor, Shiza Ali and Afra Mashhadi
 
-**DOI:** ""
+**DOI:** https://doi.org/10.1140/epjds/s13688-025-00555-9
 
 If you use our data collection scripts and analysis code in your work, please cite our paper:
 
