@@ -12,7 +12,7 @@ If you use our data collection scripts and analysis code in your work, please ci
 
 Kalhor, G., Ali, S., & Mashhadi, A. Measuring biases in AI-generated co-authorship networks. *EPJ Data Sci*. 14, 38 (2025). https://doi.org/10.1140/epjds/s13688-025-00555-9
 
-# Directories
+## Directories
 
 Our scripts are classified into the following folders:
 
